@@ -5,8 +5,8 @@
 Check out my profile and projects
 Leave a star while your at it :)
      
-     Name  =  "Kirby"
+Name  =  "Kirby"
 Interests  =  "Make Money & Development"
-Languages  =  "Python, HTML & CSS"
+Languages  =  [Python, HTML, CSS]
 
 ```
