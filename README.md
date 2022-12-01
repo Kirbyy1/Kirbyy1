@@ -8,6 +8,7 @@ Leave a star while your at it :)
 Name  =  "Kirbyy"
 Interests  =  "Make Money & Development"
 Languages  =  [Python, HTML, CSS]
+Discord = "Kirbyy#4088"
 
 
 ```
