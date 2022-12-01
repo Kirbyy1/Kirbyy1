@@ -5,7 +5,7 @@
 Check out my profile and projects
 Leave a star while your at it :)
      
-Name  =  "Kirby"
+Name  =  "Yuri Gagari"
 Interests  =  "Make Money & Development"
 Languages  =  [Python, HTML, CSS]
 
