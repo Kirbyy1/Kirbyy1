@@ -3,7 +3,7 @@
 ```python
      
 Check out my profile and projects
-Leave a star while your at it :)
+Leave a star while you're at it :)
      
 Name  =  "Kirbyy"
 Interests  =  "Make Money & Development"
