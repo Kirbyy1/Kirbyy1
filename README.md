@@ -2,12 +2,7 @@
 
 ```python
      
-Check out my profile and projects
-Leave a star while you're at it :)
-     
 Name  =  "Kirbyy"
-Interests  =  "Make Money & Development"
-Languages  =  [Python, HTML, CSS]
 Discord = "Kirbyy#4088"
 
 
