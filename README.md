@@ -7,10 +7,9 @@ class Me:
 
     def __init__(self):
     
-        self.name = Alex
+        self.name = "Alex"
+        self.discord = "Kirbyy#4088"
         
-        self.discord = Kirbyy#4088
-        
-
+        # Primum vivere deinde philosophari.
 
 ```
