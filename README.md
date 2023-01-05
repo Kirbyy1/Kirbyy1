@@ -1,4 +1,4 @@
-<img align="left" src="https://media.tenor.com/IaHWusTft-sAAAAC/hasbulla.gif" width="230" /> 
+<img align="left" src="https://media.tenor.com/IaHWusTft-sAAAAC/hasbulla.gif" width="200" /> 
 
 ```python
 
