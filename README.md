@@ -4,10 +4,13 @@
 
 
 class Me:
-    def __init__(self, name, discord):
-        
+
+    def __init__(self):
+    
         self.name = Alex
+        
         self.discord = Kirbyy#4088
+        
 
 
 ```
