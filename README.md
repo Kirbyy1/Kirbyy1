@@ -1,9 +1,13 @@
 <img align="left" src="https://media.tenor.com/IaHWusTft-sAAAAC/hasbulla.gif" width="250" /> 
 
 ```python
-     
-Name  =  "Kirbyy"
-Discord = "Kirbyy#4088"
+
+
+class Me:
+    def __init__(self, name, discord):
+        
+        self.name = Alex
+        self.discord = Kirbyy#4088
 
 
 ```
