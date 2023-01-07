@@ -10,6 +10,6 @@ class Me:
         self.name = "Alex"
         self.discord = "Kirbyy#4088"
         
-        # Primum vivere deinde philosophari.
+        # Quidquid latine dictum sit, altum videtur
 
 ```
