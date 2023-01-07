@@ -7,7 +7,7 @@ class Me:
 
     def __init__(self):
     
-        self.name = "Alex"
+        self.name = "Kirby"
         self.discord = "Kirbyy#4088"
         
         # Quidquid latine dictum sit, altum videtur
