@@ -1,5 +1,4 @@
 <img src="banner.png" />
-<img align="left" src="https://media.tenor.com/IaHWusTft-sAAAAC/hasbulla.gif" width="200" /> 
 
 ```python
 
