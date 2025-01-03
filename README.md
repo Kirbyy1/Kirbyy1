@@ -1,27 +1,50 @@
 <img src="banner.png" />
-# Hi there, I'm Kirbyy! 👋
 
-Welcome to my GitHub profile. I'm passionate about coding and have worked on various projects, primarily focusing on Python and web development.
+## 🌟 About Me
 
-## 🔭 Projects
+- 🔭 **Developer Focused on Backend**  
+  I enjoy building scalable backend systems and experimenting with tools that streamline development.
 
-Here are some of my notable repositories:
+- 🌱 **Constant Learner**  
+  I believe in continuous growth. Right now, I’m diving deeper into Go and expanding my expertise in modern backend frameworks.
+---
 
-- **Simple-Discord-SelfBot**: A self-bot for Discord written in Python. :contentReference[oaicite:0]{index=0}
+## 💻 Featured Projects  
 
-- **Social-Media**: A social media platform prototype using CSS for styling. :contentReference[oaicite:1]{index=1}
+Here are some of my standout projects:  
 
-- **League-Account-Generator**: A tool to generate League of Legends accounts. :contentReference[oaicite:2]{index=2}
+### 🛠️ **[Simple-Discord-SelfBot](https://github.com/Kirbyy1/Simple-Discord-SelfBot)**  
+A self-bot for Discord written in Python. It demonstrates custom bot automation and creative functionality.  
 
-## 🌱 Skills
+### 🌐 **[Social-Media](https://github.com/Kirbyy1/Social-Media)**  
+A prototype for a social media platform using CSS. A showcase of design and frontend experimentation.  
 
-- **Languages**: Python, CSS
+### 🧩 **[League-Account-Generator](https://github.com/Kirbyy1/League-Account-Generator)**  
+An account generation tool for League of Legends enthusiasts, offering utility and automation.  
 
-- **Tools**: Git, GitHub
+Feel free to explore more of my [repositories](https://github.com/Kirbyy1?tab=repositories)!  
 
-## 📫 Contact
+---
 
-- **Discord**: Kirbyy#4088
+## 🛠️ Technologies & Tools  
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
+- **Languages:** Python, Go, CSS  
+- **Frameworks & Tools:** Git, GitHub, Backend Frameworks  
+- **Interests:** Automation, Backend Systems, Web Development  
+
+---
+
+## 📈 GitHub Stats  
+
+![Kirbyy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirbyy1&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirbyy1&layout=compact&theme=radical)  
+
+---
+
+## 📬 Connect with Me  
+
+- **Discord:** Kirbyy#4088  
+
+
+---
 
