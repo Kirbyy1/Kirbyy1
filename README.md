@@ -1,12 +1,5 @@
 <img src="banner.png" />
 
-## 🌟 About Me
-
-- 🔭 **Developer Focused on Backend**  
-  I enjoy building scalable backend systems and experimenting with tools that streamline development.
-
-- 🌱 **Constant Learner**  
-  I believe in continuous growth. Right now, I’m diving deeper into Go and expanding my expertise in modern backend frameworks.
 ---
 
 ## 💻 Featured Projects  
